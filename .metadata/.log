@@ -1,0 +1,178 @@
+!SESSION 2015-11-05 21:41:36.688 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 Pro amd64-64 Compressed References 20150630_255653 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20150630_2236_B255653
+JIT  - tr.r13.java_20150623_94888.01
+GC   - R27_Java727_SR3_20150630_2236_B255653_CMPRSS
+J9CL - 20150630_255653
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -data F:\Users\deltavivo\IBM\IIBT10\workspace_http -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2015-11-05 21:41:38.087
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.288
+!MESSAGE NLS unused message: PD_HELP_POPUP_RELATED_HELP_SECTION_TITLE in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.292
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_OPEN_DYNAMIC_HELP_LINK_TEXT in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.295
+!MESSAGE NLS unused message: PD_HELP_POPUP_DECORATOR_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.297
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_MORE_INFO_LINK in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.299
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_SECTION_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.302
+!MESSAGE NLS unused message: WarningEditReferenceFileInRecordMode in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.ui 2 2 2015-11-05 21:41:41.404
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2015-11-05 21:41:41.407
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2015-11-05 21:41:41.409
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.951
+!MESSAGE NLS unused message: ErrorCreateTestNode in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.955
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogTitle in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.958
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogDescription in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.961
+!MESSAGE NLS missing message: expAPIDialog_apiId in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.963
+!MESSAGE NLS missing message: expAPIDialog_apiVer in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.966
+!MESSAGE NLS missing message: expAPIDialog_testConn in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.969
+!MESSAGE NLS missing message: expAPIDialog_newVer in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:41.973
+!MESSAGE NLS missing message: expAPIDialog_exportDesc in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:43.083
+!MESSAGE NLS missing message: ConnectPatternRepo_ErrorConnecting_Dialog_Title in: com.ibm.etools.mft.pattern.community.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:41:43.086
+!MESSAGE NLS missing message: ConnectPatternRepo_ErrorConnecting_Dialog_Msg in: com.ibm.etools.mft.pattern.community.messages
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-11-05 21:41:43.556
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-11-05 21:41:43.559
+!MESSAGE E:\IBM\IIB\10.0.0.2\tools>mqsifindmqpath
+
+!ENTRY com.ibm.mq.runtime 1 0 2015-11-05 21:41:43.691
+!MESSAGE BIP8100I: Não foi possível detectar uma instalação do WebSphere MQ 
+
+!ENTRY com.ibm.mq.runtime 4 0 2015-11-05 21:41:44.517
+!MESSAGE WebSphere MQ install location is not found.
+
+!ENTRY com.ibm.etools.mft.pattern.community 4 0 2015-11-05 21:41:45.483
+!MESSAGE Connection to the URL http://ot4i.github.io/iib-patterns/pt/repo_metadata.json failed. Response code: 404
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:08.444
+!MESSAGE NLS missing message: ApplicationLibraryProjectReferenceWizardPage_directoryLabel in: com.ibm.etools.mft.util.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:20.495
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorSchemaInAppImportSchemaInSharedLib in: com.ibm.etools.msg.builder.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:20.498
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorProjectReferenceIsMissing in: com.ibm.etools.msg.builder.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:20.793
+!MESSAGE NLS unused message: Properties_Description in: com.ibm.etools.mft.service.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:20.796
+!MESSAGE NLS missing message: GenerateBindingAction_label2 in: com.ibm.etools.mft.service.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.019
+!MESSAGE NLS unused message: NewAssertionDialog_title in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.022
+!MESSAGE NLS unused message: SendMessage_msgNameLabel in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.025
+!MESSAGE NLS unused message: SendMessage_operationLabel in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.027
+!MESSAGE NLS unused message: SaveTestMessageTitle_input in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.030
+!MESSAGE NLS unused message: SaveTestMessageTitle_expected in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.032
+!MESSAGE NLS missing message: NextstepDialog_title in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.035
+!MESSAGE NLS missing message: NextstepDialog_Message in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.037
+!MESSAGE NLS missing message: NextstepDialog_externalTool in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.039
+!MESSAGE NLS missing message: NextstepDialog_inject in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.042
+!MESSAGE NLS missing message: ActionButton_displayData in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.045
+!MESSAGE NLS missing message: ActionButton_exit in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.047
+!MESSAGE NLS missing message: DirectInject_MessageBodyLabel in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.050
+!MESSAGE NLS missing message: DirectInject_BrowseButton in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.053
+!MESSAGE NLS missing message: DirectInject_ButtonLabel in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.055
+!MESSAGE NLS missing message: DirectInject_TestCaseLabel in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.057
+!MESSAGE NLS missing message: SendLastMessageAction_label in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.060
+!MESSAGE NLS missing message: SendLastMessageAction_tooltip in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.062
+!MESSAGE NLS missing message: SaveExpectedResult in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.065
+!MESSAGE NLS missing message: SaveCheckPoint in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.068
+!MESSAGE NLS missing message: SendMessageDialog_Error_1 in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.071
+!MESSAGE NLS missing message: SendMessageDialog_Warning_2 in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 21:42:43.073
+!MESSAGE NLS missing message: SendMessageDialog_Information_3 in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 22:48:29.047
+!MESSAGE NLS missing message: WSDL_GatewayNonGatewayString in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 22:48:29.050
+!MESSAGE NLS missing message: tooltipFTETransferMode in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 22:48:29.052
+!MESSAGE NLS missing message: CICS_GROUP_HEADER_Node_ConnectionDetails in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-05 22:48:29.054
+!MESSAGE NLS missing message: CICS_GROUP_HEADER_Broker_ConnectionDetails in: com.ibm.etools.mft.ibmnodes.plugin.ibmnodesresources
