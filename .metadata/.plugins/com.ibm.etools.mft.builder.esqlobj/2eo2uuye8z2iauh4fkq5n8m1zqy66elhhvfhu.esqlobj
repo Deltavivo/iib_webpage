@@ -1,0 +1,25 @@
+/*EATE FUNCTION Main() RETURNS BOOLE*/
+	BEGIN
+		CALL CopyMessageHeaders();
+		-- CALL CopyEntireMessage();
+		
+		DECLARE VAR CHAR;
+		SET VAR = CAST( '<!DOCTYPE html> <html manifest="demo_html.appcache"> <body> <script src="demo_time.js"></script> <p id="timePara"><button onclick="getDateTime()">Get Date and Time</button></p> <p><img src="img_logo.gif" width="336" height="69"></p> <p>Try opening <a href="tryhtml5_html_manifest.htm" target="_blank">this page</a>, then go offline, and reload the page. The script and the image should still work.</p> </body> </html>' AS CHAR;
+		
+		--<h1>Getting server updates</h1> <div id="result"></div> <script> if(typeof(EventSource) !== "undefined") { var source = new EventSource("demo_sse.php"); source.onmessage = function(event) { document.getElementById("result").innerHTML += event.data + "<br>"; }; } else { document.getElementById("result").innerHTML = "Sorry, your browser does not support server-sent events..."; } </script>
+		RETURN TRUE;
+	END;
+
+	CREATE PROCEDURE CopyMessageHeaders() BEGIN
+		DECLARE I INTEGER 1;
+		DECLARE J INTEGER;
+		SET J = CARDINALITY(InputRoot.*[]);
+		WHILE I < J DO
+			SET OutputRoot.*[I] = InputRoot.*[I];
+			SET I = I + 1;
+		END WHILE;
+	END;
+
+	CREATE PROCEDURE CopyEntireMessage() BEGIN
+		SET OutputRoot = InputRoot;
+	END;
